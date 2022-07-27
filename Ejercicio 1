@@ -1,0 +1,17 @@
+<!DOCTYPE html>
+<head><title>Ejercicio de Introducción a HTML en OpenBootcamp</title>
+   <h1> Ejercicio de Introducción a HTML en OpenBootcamp</h1>
+</head>
+<body>
+    Este es mi primer comentario de dos líneas
+    <br>
+    Aprendiendo a documentar mi código con OpenBootcamp
+<p><h2>Videos de youtube favoritos:</h2></p>
+<ul>
+<li><a href="https://www.youtube.com/watch?v=0nS9m_3qQXM">4k (ASMR) Teahupoo April/May 2022 - Waves of the World Surfing </a></li>
+<li><a href="https://www.youtube.com/watch?v=A_g3lMcWVy0">QUEVEDO || BZRP Music Sessions #52</a></li>
+<li><a href="https://www.youtube.com/watch?v=2uGDCCFmjas">¿POR QUÉ SOMOS GRATIS?🤯​ Resolviendo dudas sobre OPENBOOTCAMP en directo.</li> </ul>
+</ul>
+
+</body>
+</html>
