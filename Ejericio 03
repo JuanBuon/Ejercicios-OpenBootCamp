@@ -1,0 +1,22 @@
+<!DOCTYPE html>
+<html>
+    <head><title>Ejercicio 3 </title></head>
+    <body>
+        <div>
+            <h1>Aprendiendo a utilizar imágenes</h1>
+            <img src="https://static.wikia.nocookie.net/esgta/images/c/c2/Grand_Theft_Auto_San_Andreas.JPG/revision/latest?cb=20161127211015" alt="Imagen GTA San Andreas" height="300" width="300">
+        </div>
+        <div>
+            <h1>Aprendiendo a utilizar los vídeos</h1>
+            <video width="300" height="300" muted autoplay controls loop>
+                <source src="30 DETALLES ALUCINANTES de GTA SAN ANDREAS.mp4" type="video/mp4">
+            </video>
+        </div>
+        <div>
+            <h1>Aprendiendo a utilizar los audios</h1>
+            <audio autoplay controls loop>
+                <source src="videoplayback.mp3" type="audio/mp3"> 
+            </audio>
+        </div>
+    </body>
+</html>
